@@ -1,0 +1,23 @@
+
+Image pokemon
+
+https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png
+
+
+Base 1:
+
+https://betterprogramming.pub/build-your-own-pokedex-web-app-with-streamlit-10c550a98e22
+
+Base 2:
+
+https://medium.com/geekculture/creating-a-pokedex-with-blazor-webassembly-677b5bcf3593
+
+Base 3:
+
+https://webflow.com/made-in-webflow/website/pokeapi
+
+Link: https://pokeapi.co/api/v2/pokemon/150
+
+Documentation:
+
+https://pokeapi.co/docs/v2#pokemon-section
