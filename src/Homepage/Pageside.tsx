@@ -1,5 +1,6 @@
 import React from "react"
 import './css/pageside.css'
+import pokeapi from '../images/pokeapi.png';
 
 function pageside(){
 
@@ -7,33 +8,17 @@ function pageside(){
 
         <div id="Side_bar">
 
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
-            <p>lateral</p>
+            <div id='Component_search_pokemon'>
+
+                <img src={pokeapi} id='image_pokeapi'></img>
+
+                <input id='Search_pokemon'></input>
+                <input id='Search_pokemon'></input>
+                <input id='Search_pokemon'></input>
+                <input id='Search_pokemon'></input>
+                <input id='Search_pokemon'></input>
+                <input id='Search_pokemon'></input>
+            </div>
         </div>
 
     )
