@@ -1,0 +1,15 @@
+
+.body{
+
+    display:flex;
+}
+
+#pagecentral{
+
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+    height: 50vw;
+    width: 100vw; 
+    justify-content: center;
+}

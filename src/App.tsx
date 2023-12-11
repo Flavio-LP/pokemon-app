@@ -1,8 +1,13 @@
 import React from 'react';
+import Pageside from './Homepage/Pageside';
+import Page_central from './Homepage/Page_central';
 
 function App() {
   return (
-   <h1>teste</h1>
+    <div id='homepage'>
+      <Pageside />
+      <Page_central/>
+   </div>
   );
 }
 
