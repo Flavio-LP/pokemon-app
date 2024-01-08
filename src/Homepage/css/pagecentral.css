@@ -8,8 +8,22 @@
 
     display: flex;
     flex-direction: column;
-    background-color: blue;
+    background-color: rgb(100, 100, 253);
     height: 100vh;
     width: 75vw; 
     justify-content: center;
+}
+
+#div_pokemon{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.image_pokemon{
+
+    width: 20vw;
+    height: 20vw;
+
 }
