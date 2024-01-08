@@ -21,3 +21,7 @@ Link: https://pokeapi.co/api/v2/pokemon/150
 Documentation:
 
 https://pokeapi.co/docs/v2#pokemon-section
+
+
+Fazer um flipper com o dragonite
+https://www.treinaweb.com.br/blog/css-aprenda-a-criar-o-efeito-de-flip-cards
