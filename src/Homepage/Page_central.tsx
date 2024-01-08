@@ -6,7 +6,9 @@ function Page_central(){
     return(
         
         <div id='pagecentral'>
-        <h1> Pagina central</h1>
+         <div id='div_pokemon'>
+            <img className='image_pokemon' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png'></img>
+         </div>
         </div>
     )
 
