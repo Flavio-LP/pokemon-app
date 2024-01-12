@@ -14,6 +14,14 @@
     justify-content: center;
 }
 
+.name_pokemon{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3%;
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #div_pokemon{
 
     display: flex;
