@@ -6,6 +6,9 @@ function Page_central(){
     return(
         
         <div id='pagecentral'>
+
+         <h1 className="name_pokemon">Dragonite</h1>
+
          <div id='div_pokemon'>
             <img className='image_pokemon' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png'></img>
          </div>
