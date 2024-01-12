@@ -10,11 +10,23 @@ function pageside(){
 
             <div id='Component_search_pokemon'>
 
+            
                 <div className='Image_pokeapi'>
                 <img src={pokeapi} id='image_pokeapi'></img>
                 </div>
 
+
                 <input id='Search_pokemon'></input>
+
+                <div>
+
+                    <h2>HP</h2>
+                    <h2>Attack</h2>
+                    <h2>Defense</h2>
+                    <h2>Speed</h2>
+                    <h2>Types</h2>
+                </div>
+
             </div>
         </div>
 
